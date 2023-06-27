@@ -5,4 +5,4 @@
 * There are no examples 
 * No work experience 
 * Higher education 
-* Fucking 
+* Beginner
